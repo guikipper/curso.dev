@@ -2,8 +2,7 @@ function Home() {
   //nome maiúsculo para componente
   return (
     <h1>
-      Amor, quero te ver hoje, não to muito bem das ideias e tu sempre me faz
-      muito bem!
+      Hello World!
     </h1>
   );
 }
